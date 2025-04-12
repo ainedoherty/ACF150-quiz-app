@@ -1,0 +1,235 @@
+What is the primary advantage of forward contracts in foreign exchange? : Forward contracts can be customized to specific amounts, currencies, and dates, making them flexible tools for hedging exact exposures. Unlike futures, which have standardized terms, forwards can be tailored to match a company's specific needs in terms of amount and settlement date.
+
+Which of the following is NOT a basic characteristic of money market securities? : Money market securities are not primarily designed for high returns compared to long-term investments. They are typically used for liquidity management and short-term capital preservation rather than generating substantial returns. Their three basic characteristics are large denominations, low default risk, and short maturities (one year or less).
+
+What type of derivative instrument gives the holder the right but not the obligation to buy an asset at a predetermined price? : A call option gives the holder the right (but not the obligation) to buy an underlying asset at a predetermined price (strike price) within a specific time period. Unlike futures or forwards, which create obligations to trade, options provide flexibility to execute only if favorable.
+
+In a currency pair quotation of EUR/USD, which is the base currency? : In any currency pair, the first currency listed is the base currency. In EUR/USD, the Euro is the base currency, and the quote shows how many US dollars are needed to purchase one Euro. The base currency is always equal to one unit in the quotation.
+
+What is the primary difference between a unit trust and an OEIC? : The key structural difference is that OEICs have a company structure with shareholders, while unit trusts have a trust structure with unitholders. OEICs are established under specific legislation as corporate entities, while unit trusts are set up as trusts with separate trustees and managers.
+
+How do commercial papers typically generate returns for investors? : Commercial papers are short-term, unsecured promissory notes typically issued at a discount to their face value rather than paying periodic interest. The investor's return comes from buying the paper below face value and receiving the full face value at maturity. This discount represents the implied interest.
+
+Which of the following is a key risk of Credit Default Swaps (CDS)? : The primary risk in a CDS is default risk of the reference entity (third party). If the reference entity experiences a credit event (like defaulting on its debt), the protection seller must make the agreed payment to the protection buyer. This is directly tied to the creditworthiness of the entity being insured against.
+
+What is the main purpose of Purchasing Power Parity in exchange rates? : Purchasing Power Parity (PPP) theory suggests exchange rates should adjust to equalize the price of goods between countries. It's an application of the Law of One Price to general price levels, adjusting for price level differences between countries to determine a theoretical exchange rate.
+
+Which investment fund type typically has the highest minimum investment threshold? : Hedge funds typically require very high minimum investments, often $500,000 or more, compared to retail investment vehicles like unit trusts, OEICs, or ETFs. This high threshold is due to their status as unauthorized and unregulated schemes intended for sophisticated investors.
+
+What are Treasury Bills primarily used for? : Treasury Bills are debt instruments issued by governments (typically through entities like the Debt Management Office) specifically for short-term borrowing needs. They help governments manage cash flow and short-term funding requirements, usually with maturities of 1, 3, or 6 months.
+
+In futures trading, what is the purpose of the initial margin? : The initial margin in futures trading serves as a good faith deposit or performance bond, not as payment for the contract or premium. It ensures both parties can meet their obligations and protects against default risk. This margin is typically a small percentage of the contract value.
+
+Which of the following exchange rate regimes involves central bank intervention to stabilize currency values without fixing them completely? : A managed float (dirty float) is a hybrid regime where the currency's value is primarily determined by market forces, but central banks intervene periodically to reduce volatility or prevent extreme movements, without maintaining a completely fixed rate.
+
+What strategy does a "stratified sampling" approach refer to in ETF management? : Stratified sampling in ETF management involves selecting a representative sample of securities from each sector or segment of the target index, rather than holding every security. This approach balances tracking accuracy with cost efficiency when full replication is impractical.
+
+What is the main difference between spot and forward exchange rates? : Spot rates are for immediate delivery (typically settled within two business days), while forward rates are for future delivery at a predetermined date. Forward rates are agreed upon today but the actual exchange of currencies happens at the specified future date.
+
+Which of the following is a characteristic of a party going "long" in a futures contract? : Going "long" in a futures contract means taking the buying position with the expectation that the price of the underlying asset will increase. The long position benefits from price appreciation of the asset between contract creation and settlement/closing.
+
+What is the Interest Parity Condition used for in foreign exchange markets? : The Interest Parity Condition establishes the theoretical relationship between spot and forward exchange rates based on the interest rate differential between two currencies. It's a mathematical relationship that prevents arbitrage opportunities between currencies with different interest rates.
+
+What type of derivative is used when two parties agree to exchange one stream of interest payments for another? : A swap contract is used when parties exchange payment streams. Specifically, in an interest rate swap, parties typically exchange fixed interest payment streams for floating ones or vice versa, allowing them to manage interest rate risk without affecting their underlying debt.
+
+Which type of investment fund uses dual pricing (purchase at offer price, sell at bid price)? : Unit trusts traditionally use dual pricing where investors buy units at the offer price (higher) and sell at the bid price (lower), with the difference covering costs and charges. This differs from OEICs which typically use single pricing with a separate charge.
+
+What is the main advantage of Exchange-Traded Derivatives compared to OTC derivatives? : Exchange-Traded Derivatives significantly reduce counterparty risk because the exchange acts as the counterparty to all trades and provides clearing services. This centralizes risk and reduces the chance of default compared to OTC derivatives where counterparty risk remains with the individual parties.
+
+Which of the following best describes value investing as an investment style? : Value investing focuses on identifying companies whose stock appears undervalued relative to their intrinsic or book value. Value investors look for companies trading below what they believe to be the company's fundamental worth, based on factors like assets, earnings, dividends, and financial strength.
+
+Which type of option strategy involves holding both call and put options on the same underlying asset? : A straddle strategy involves simultaneously holding both call and put options on the same underlying asset with the same strike price and expiration date. This strategy benefits from significant price movements in either direction, rather than betting on a specific direction.
+
+What is the primary purpose of Money Market Funds? : Money Market Funds are designed to provide investors with income while maintaining high liquidity and capital preservation. They invest in short-term, high-quality debt instruments, allowing investors to earn modest returns while keeping cash accessible and relatively safe.
+
+When a currency is said to be depreciated, what does this mean? : Currency depreciation means it has decreased in value relative to other currencies - you need more of the depreciated currency to buy the same amount of another currency than before. This makes imports more expensive and exports cheaper for the country with the depreciated currency.
+
+Which of the following is a key feature of commercial paper? : Commercial paper is typically unsecured, meaning it's not backed by collateral. Companies issue it based on their credit rating and reputation, making it a form of unsecured short-term borrowing for corporations with strong credit standings.
+
+What is meant by "gearing" in the context of investment trusts? : Gearing refers to the ability of investment trusts to borrow money to make additional investments beyond their existing capital. This leverage can amplify returns in rising markets but also magnify losses in falling markets, a capability that open-ended funds typically don't have.
+
+In forex trading, what does the bid-ask spread represent? : The bid-ask spread is the difference between the buying price (bid) and selling price (ask) offered by forex dealers. This spread represents the dealer's profit margin and reflects the costs of making markets in the currency, including liquidity and volatility factors.
+
+What is a key characteristic of passive fund management? : Passive fund management aims to track or replicate the performance of a specific market index rather than trying to outperform it. The goal is to match the returns of the benchmark index by closely following its composition, typically resulting in lower fees than active management.
+
+Which type of derivative contract is most standardized in terms of contract size and maturity dates? : Futures contracts are highly standardized with fixed contract sizes, delivery dates, and other specifications set by the exchange. This standardization enhances liquidity and transparency, unlike forward contracts which can be customized to specific needs.
+
+What is the main risk associated with cash deposits? : Inflation risk is the primary concern with cash deposits, as the interest earned may not keep pace with inflation, resulting in a loss of purchasing power over time. Even though the nominal value is preserved, the real value (what the money can buy) may decline.
+
+What does it mean when an investor "covers" their position in futures trading? : Covering a position means buying offsetting contracts to eliminate market exposure. For a short position, this means buying an equivalent long position to neutralize the obligation, effectively closing out the position before delivery/settlement date.
+
+What represents the safest form of money market instrument? : Treasury Bills are considered the safest money market instruments because they are backed by the full faith and credit of the government (sovereign debt), carrying minimal default risk compared to instruments issued by commercial entities.
+
+Which type of investment fund typically has the lowest management fees? : Index funds and ETFs typically have the lowest management fees among investment funds because they follow passive strategies that don't require extensive research, analysis, or active trading. They simply track market indices, reducing operational costs significantly.
+
+How is a currency swap different from an interest rate swap? : Currency swaps involve exchanging principal amounts and interest payments in different currencies, while interest rate swaps exchange different types of interest payments (typically fixed for floating) in the same currency. Currency swaps help manage both currency and interest rate risk.
+
+What is the key characteristic of a Real Estate Investment Trust (REIT)? : REITs must distribute a high percentage of their income (typically 90% or more) to shareholders. This requirement allows them to avoid corporate taxation, functioning as pass-through entities, and provides investors with regular income from real estate investments without direct property ownership.
+
+How do certificates of deposit (CDs) typically work? : CDs are issued by banks and pay interest to depositors for leaving their money for a fixed term. They can either pay periodic interest or be issued at a discount like zero-coupon instruments. Unlike regular deposits, many CDs can be traded on secondary markets before maturity.
+
+What is translation risk in foreign exchange? : Translation risk refers to the risk that a company's financial statements will be affected by exchange rate changes when converting the value of foreign assets and liabilities to the domestic currency for reporting purposes. It impacts the reported value but not necessarily actual cash flows.
+
+What distinguishes a physical ETF from a synthetic ETF? : Physical ETFs actually hold the underlying assets (stocks, bonds, etc.) they track, while synthetic ETFs use derivatives (typically swaps) to replicate the index performance without owning the actual securities. Physical ETFs have direct ownership while synthetic ETFs have counterparty exposure.
+
+What is the "Law of One Price" in relation to exchange rates? : The Law of One Price states that identical goods should cost the same in different countries when expressed in the same currency, after accounting for transaction costs. Exchange rates should theoretically adjust to eliminate price discrepancies for the same product across borders.
+
+Which type of investment style focuses on buying shares that are rising in price with the expectation the trend will continue? : Momentum investing focuses on buying securities that are already rising in price, based on the belief that securities that have performed well in the recent past will continue to perform well in the near future. It relies on trend continuation rather than fundamental analysis.
+
+What is mark-to-market in futures trading? : Mark-to-market is the daily process of adjusting margin accounts based on price movements in futures contracts. At the end of each trading day, gains are credited and losses are debited from each trader's margin account, ensuring that sufficient margin is maintained and preventing the accumulation of losses.
+What is the difference between a call option and a put option? : A call option gives the holder the right (but not obligation) to buy the underlying asset at a specific price, benefiting the holder if prices rise. A put option gives the right to sell at a specific price, benefiting the holder if prices fall. Both allow the holder to walk away if the market moves unfavorably.
+
+Which of the following best describes a managed float exchange rate regime? : A managed float (or dirty float) regime allows exchange rates to fluctuate primarily based on market forces, but central banks intervene periodically to prevent excessive volatility or to influence the direction of the currency. It combines elements of both fixed and floating regimes without rigidly pegging the currency.
+
+What does "going short" in a futures contract mean? : Going short in a futures contract means selling a contract with the expectation that prices will fall. The short position benefits if the underlying asset's price decreases between contract creation and settlement, allowing the seller to buy the asset cheaper than the contracted sale price.
+
+How are zero-coupon Treasury Bills typically priced? : Zero-coupon Treasury Bills are priced at a discount to their par (face) value. Rather than paying periodic interest, the investor's return comes from the difference between the discounted purchase price and the full face value received at maturity. This discount represents the implicit interest.
+
+What distinguishes an active investment management approach from a passive one? : Active management attempts to outperform market benchmarks through research, analysis, and selectivity in investments, believing markets are inefficient. Passive management aims to track market indices based on efficient market theory, accepting market returns without trying to beat them.
+
+What happens if a margin call in futures trading is not met? : If a margin call is not met, the position is liquidated by the broker to prevent further losses. When a trader's account falls below the maintenance margin requirement and they fail to deposit additional funds, their positions are forcibly closed out to protect the broker and market integrity.
+
+Which of the following is NOT one of the three types of FX rate risk? : The three types of FX risk are transaction risk (from rate changes between agreement and payment), translation risk (affecting reported value of foreign assets), and economic risk (from long-term rate movements). Regulatory risk, while real, is not classified as one of the three main FX risks.
+
+What is the primary benefit of investing in a Collective Investment Scheme (CIS)? : Diversification across asset classes and markets is the primary benefit of CISs. By pooling money from many investors, CISs can invest in a broad range of securities that would be inaccessible to individual investors, reducing specific risk through broader exposure.
+
+In the currency pair GBP/JPY, which currency is the quote currency? : In any currency pair, the second currency listed is the quote or counter currency. In GBP/JPY, the Japanese Yen is the quote currency, showing how many yen are needed to purchase one British pound. The quote currency is what you're using to buy the base currency.
+
+How does a Credit Default Swap (CDS) function? : In a CDS, the protection buyer pays a periodic fee to the protection seller in exchange for a guarantee of payment if a credit event (like default) occurs with the reference entity. It's essentially insurance against default risk, transferring the risk from the buyer to the seller.
+
+What is the primary purpose of commercial paper for companies? : Commercial paper allows companies to satisfy short-term borrowing needs, such as financing accounts receivable or inventory, or meeting short-term liabilities. It's a cost-effective alternative to short-term bank loans for companies with strong credit ratings.
+
+Which of the following investment fund types is close-ended with a fixed number of shares? : Investment Trusts are closed-ended investment companies with a fixed number of shares. Unlike open-ended funds (Unit Trusts and OEICs), they don't create or redeem shares based on investor demand, so their share price is determined by market supply and demand.
+
+How is currency appreciation typically calculated? : Currency appreciation is calculated as (New exchange rate - Old exchange rate) / Old exchange rate, expressed as a percentage. This formula shows the proportional change in the currency's value, with a positive result indicating appreciation and a negative result indicating depreciation.
+
+What is the key advantage of Treasury Bills over other money market instruments? : Treasury Bills have lower default risk than other money market instruments because they are backed by the government, which can raise taxes or print money to meet obligations. This makes them the safest short-term investment option in the money market.
+
+What is the difference between a synthetic ETF and a physical ETF? : Synthetic ETFs use derivatives (typically swaps) to replicate index performance without directly owning the underlying assets, while physical ETFs actually hold the securities comprising the index. Synthetic ETFs introduce counterparty risk but may track certain indices more efficiently.
+
+How do futures contracts differ from forward contracts? : Futures contracts are standardized (fixed contract sizes, delivery dates, etc.) and traded on organized exchanges with a clearinghouse reducing counterparty risk. Forward contracts are customized, over-the-counter agreements between specific parties with terms tailored to their needs.
+
+What is Purchasing Power Parity (PPP) used for in exchange rates? : PPP theory determines the theoretical exchange rate that would equalize the purchasing power of different currencies by accounting for price level differences between countries. It suggests that exchange rates should adjust until identical goods cost the same amount in different countries.
+
+What is a key feature of hedge funds compared to mutual funds? : Hedge funds can use leverage, short selling, derivatives, and more complex strategies that are typically restricted for mutual funds. This flexibility allows them to pursue absolute returns in various market conditions rather than relative performance against benchmarks.
+
+What are the three basic characteristics of money market securities? : Money market securities are characterized by: 1) Low default risk - they're generally considered safe investments; 2) Short maturities - typically one year or less; and 3) Large denominations - they're usually sold in large amounts mainly to institutional investors.
+
+What happens to interest rates in countries with fixed exchange rate regimes? : In countries with fixed exchange rates, domestic interest rates must generally follow those of the country to which the currency is pegged. This is because maintaining the peg requires preventing capital flows that would occur if interest rates diverged significantly.
+
+What distinguishes a bottom-up investment approach from a top-down approach? : Bottom-up investing focuses first on analyzing individual companies' fundamentals, performance, and potential before considering broader economic factors. Top-down investing starts with macroeconomic analysis and sector trends before selecting individual securities.
+
+How is the value of an interest rate swap determined? : The value of an interest rate swap is determined by comparing the net present values of the fixed and floating rate payment streams. When interest rates change after the swap is initiated, the relative values of these payment streams change, creating positive value for one party.
+
+Why are money market funds often used by corporate treasurers? : Corporate treasurers use money market funds to earn interest on surplus cash while maintaining liquidity for near-term operational needs. They provide slightly better returns than bank deposits while preserving capital and allowing quick access to funds when needed.
+
+What is a direct quote in foreign exchange? : A direct quote expresses the exchange rate as the amount of domestic currency needed to purchase one unit of foreign currency. For example, for a U.S. resident, EUR/USD = 1.10 is a direct quote showing that $1.10 is needed to buy €1.
+
+What is the primary difference between venture capital and private equity funds? : Venture capital targets early-stage companies with high growth potential but higher risk, typically taking minority stakes. Private equity generally targets more established, mature companies, often acquiring controlling interests to implement operational improvements before selling.
+
+In options trading, what is a straddle strategy? : A straddle involves buying both a call and put option on the same underlying asset with the same strike price and expiration date. This strategy profits from significant price movement in either direction, making it useful when high volatility is expected but the direction is uncertain.
+
+What is the settlement timeframe for most spot foreign exchange transactions? : Most spot foreign exchange transactions settle two business days after the trade date (T+2). This convention gives time for transaction confirmation and arranging the necessary funds transfer between the parties' accounts at their respective banks.
+
+How do Certificates of Deposit (CDs) differ from regular bank deposits? : Unlike regular bank deposits, CDs can be traded in secondary markets before maturity. This tradability allows investors to sell their CD if they need funds before the maturity date, albeit possibly at a price that reflects current interest rates.
+
+What is the primary difference between contrarian investing and momentum investing? : Contrarian investors buy stocks that are falling or out of favor, betting against market sentiment with the belief they're undervalued. Momentum investors buy stocks that are already rising, betting that upward trends will continue. They represent opposite approaches to market psychology.
+
+What is the main purpose of daily mark-to-market in futures trading? : Daily mark-to-market in futures trading adjusts margin accounts based on price movements each day. This process settles gains and losses daily rather than accumulating them until contract expiration, reducing credit risk by preventing large losses from building up unaddressed.
+
+How does the Law of One Price relate to Purchasing Power Parity? : The Law of One Price applies to individual identical goods, stating they should cost the same everywhere when expressed in the same currency. Purchasing Power Parity extends this concept to general price levels across countries, comparing overall costs of goods and services.
+
+What distinguishes a REIT from other types of investment trusts? : REITs specifically invest in income-producing real estate assets and related securities. Unlike general investment trusts, they must derive most of their income from real estate and typically have special tax status requiring them to distribute most of their income to shareholders.
+
+What is the risk of securities quoted on a discount basis like Treasury Bills? : The main risk for discount securities like Treasury Bills is interest rate risk - if interest rates rise after purchase, the market value of the security falls. Since these instruments don't pay periodic interest, their entire return comes from the discount, making them sensitive to rate changes.
+
+What does it mean when a trader takes a "long" position in a swap contract? : In swap terminology, taking a "long" position means paying fixed rate and receiving floating rate payments. The trader benefits if interest rates rise (receiving higher floating payments while paying the same fixed rate) and loses if rates fall.
+
+What factors would typically cause a currency to appreciate? : A currency typically appreciates with lower domestic inflation (maintaining purchasing power), decreased import demand (less selling of domestic currency), and increased productivity (making the country's goods more competitive). These factors create stronger demand for the currency relative to supply.
+
+What is a key characteristic of value investing as an investment style? : Value investing focuses on selecting shares that appear undervalued relative to their intrinsic worth based on fundamental analysis. Value investors look for companies trading below what they calculate to be the company's true value, often using metrics like P/E ratio, book value, and dividend yield.
+
+What typically happens to the value of money market instruments when interest rates rise? : When interest rates rise, the values of existing money market instruments decrease. This inverse relationship occurs because newly issued instruments offer higher yields, making existing lower-yielding instruments less attractive, requiring a price discount to compete.
+
+What is the key advantage of Exchange Traded Funds (ETFs) compared to traditional mutual funds? : ETFs typically offer lower management fees due to their passive nature and greater liquidity since they trade continuously on exchanges throughout the day. Traditional mutual funds only trade once daily at the NAV calculated after market close.
+
+How do options differ from futures in terms of obligation? : Options give the holder the right but not the obligation to buy or sell the underlying asset at the strike price. Futures create a binding obligation for both parties to make and take delivery (or cash settle) at the agreed price, regardless of market conditions.
+What is the relationship between interest rates and exchange rates according to Interest Rate Parity? : Interest Rate Parity theory states that interest rate differentials between two countries should be offset by expected changes in exchange rates. If one country has higher interest rates, its currency should be expected to depreciate against the other by approximately the interest rate differential.
+
+Which derivative instrument allows the right but not the obligation to sell an asset at a predetermined price? : A put option gives the holder the right, but not the obligation, to sell an underlying asset at a predetermined price (strike price) within a specific time period. This provides the holder with protection against price decreases while limiting risk to the premium paid.
+
+What is dual pricing in the context of unit trusts? : Dual pricing refers to the practice of charging separate prices for buying (offer price) and selling (bid price) units in a trust. The difference between these prices (spread) covers transaction costs and charges. Investors buy at the higher offer price and sell at the lower bid price.
+
+What is one of the key advantages of cash deposits? : Liquidity and safety are key advantages of cash deposits. They allow quick access to funds when needed (liquidity) while providing principal protection and minimal risk compared to other investments (safety), making them suitable for emergency funds and short-term savings.
+
+In swap contracts, what does it mean to be "short" in the swap? : Being "short" in a swap means paying fixed rate and receiving floating rate payments. This position benefits if interest rates fall (paying the fixed rate while receiving declining floating payments) and loses if rates rise. It's the opposite of the "long" position.
+
+What is a main function of the foreign exchange market? : A primary function of the foreign exchange market is to enable the conversion of one country's currency into another. This facilitates international trade, investment, tourism, and other cross-border activities that require different currencies to be exchanged.
+
+How are Commercial Papers typically issued? : Commercial Papers are typically issued directly by corporations at a discount to their face value, rather than offering regular interest payments. The return to investors comes from the difference between the discounted purchase price and the full face value received at maturity.
+
+What is the primary difference between active and passive investment management? : Active management tries to outperform market benchmarks through research, security selection, and market timing, believing markets are inefficient. Passive management aims to track market index performance, accepting market returns based on efficient market theory.
+
+What happens in a credit event related to a Credit Default Swap? : When a credit event (like default) occurs, the protection seller makes the agreed payment to the protection buyer, compensating them for the loss in value of the reference entity's debt. This fulfills the insurance-like function of the CDS and typically terminates the contract.
+
+What causes a currency to be quoted at a forward discount? : A currency is quoted at a forward discount when its forward rate is lower than its spot rate. This typically occurs when interest rates in the home country are higher than in the foreign country, following the Interest Rate Parity relationship.
+
+What are Treasury Bills primarily used for in financial markets? : Treasury Bills are primarily used for government short-term borrowing needs. They help governments manage cash flow, fund short-term deficits, and implement monetary policy, while providing investors with low-risk, short-term investment options.
+
+Which investment style involves buying stocks that are out of favor with the market? : Contrarian investing involves buying stocks that are currently out of favor with the market or experiencing price declines. Contrarians believe the market overreacts to news and events, creating opportunities to profit when sentiment eventually reverses.
+
+How do futures contracts handle price fluctuations on a daily basis? : Futures contracts handle price fluctuations through daily mark-to-market adjustments, where gains and losses are calculated and settled daily. This involves crediting or debiting traders' margin accounts based on daily price changes, rather than waiting until contract expiration.
+
+What does a direct quotation in foreign exchange mean? : A direct quotation shows the exchange rate as the amount of domestic currency needed to buy one unit of foreign currency. For example, for a U.S. resident, USD/EUR = 0.85 is a direct quote showing that $0.85 buys €1.
+
+What is the main purpose of Money Market Funds? : Money Market Funds primarily provide short-term liquidity and income preservation. They offer investors a way to earn modest returns on cash while maintaining high liquidity and relatively low risk, functioning as an alternative to bank deposits for short-term cash management.
+
+Which type of investment fund is characterized by having a fixed number of shares and trading on a stock exchange? : Investment trusts are closed-ended funds with a fixed number of shares that trade on stock exchanges. Unlike open-ended funds that create/redeem shares based on investor demand, investment trust prices are determined by market supply and demand.
+
+What is the primary role of the clearinghouse in futures trading? : The primary role of the clearinghouse is eliminating counterparty risk by becoming the buyer to every seller and the seller to every buyer. This central counterparty system ensures contract performance even if one party defaults, protecting market integrity.
+
+What does the Interest Parity Condition establish in foreign exchange markets? : The Interest Parity Condition establishes the relationship between spot and forward exchange rates based on interest rate differentials between currencies. It's a mathematical relationship that prevents arbitrage opportunities across currencies with different interest rates.
+
+What is the main risk associated with investing in money market instruments? : The main risk for money market instruments is inflation risk reducing real returns. While these instruments preserve nominal capital, their typically low returns may not keep pace with inflation, resulting in loss of purchasing power over time.
+
+What distinguishes hedge funds from traditional investment funds? : Hedge funds feature less regulation and more investment flexibility than traditional funds. They can use strategies unavailable to conventional funds, including leverage, short-selling, derivatives, and concentrated positions, targeting absolute returns rather than relative performance.
+
+What is the difference between options and futures regarding premium payment? : Options require an upfront premium payment from the buyer to the seller, while futures do not. The option premium represents the maximum possible loss for the buyer and is paid regardless of whether the option is eventually exercised.
+
+What is economic risk in foreign exchange? : Economic risk refers to the potential for long-term shifts in exchange rates to affect a company's business competitiveness and value. Unlike transaction or translation risk, economic risk impacts future cash flows, market share, and strategic positioning over the longer term.
+
+What is a key advantage of Certificates of Deposit over regular bank deposits? : A key advantage of CDs over regular bank deposits is their ability to be traded before maturity in secondary markets. This provides investors with potential liquidity without breaking the deposit agreement, though the sale price will reflect current market conditions.
+
+What strategy does full replication refer to in ETF management? : Full replication means buying every security in the target index according to its exact weight. This is the most direct way to track an index, minimizing tracking error by precisely matching the index composition, though it can be costly and complex for broad indices.
+
+In options terminology, what is meant by "writing" an option? : Writing an option means selling or creating an option contract, taking on the obligation to fulfill the terms if the buyer exercises their right. The option writer receives the premium upfront but faces potential obligations and unlimited risk (for certain positions) later.
+
+How are exchange rates impacted when a country's productivity increases relative to other countries? : When a country's productivity increases relative to other countries, its currency tends to appreciate. Higher productivity makes the country's goods more competitive internationally, increasing demand for its exports and consequently its currency.
+
+How do Money Market Funds typically generate returns for investors? : Money Market Funds generate returns primarily through interest income from short-term debt securities like Treasury bills, commercial paper, and certificates of deposit. They provide investors with the interest earned on these instruments minus management fees.
+
+What is a key feature of Exchange Traded Funds (ETFs) compared to mutual funds? : Greater intraday liquidity is a key feature of ETFs compared to mutual funds. ETFs trade continuously on exchanges throughout the trading day at market-determined prices, while mutual funds can only be bought or sold once per day at the NAV calculated after market close.
+
+What is the primary purpose of forward contracts in derivatives markets? : The primary purpose of forward contracts is to hedge against future price fluctuations in an underlying asset. They allow parties to lock in prices today for future transactions, providing certainty about future costs or revenues regardless of market movements.
+
+What does Purchasing Power Parity theory suggest about exchange rates? : Purchasing Power Parity theory suggests exchange rates should stabilize at levels where equivalent goods cost the same in different countries when expressed in the same currency. This "law of one price" applied to general price levels theoretically prevents persistent arbitrage opportunities.
+
+What are the three basic characteristics of money market securities according to textbooks? : Money market securities are characterized by large denominations (typically sold in substantial amounts), low default risk (high credit quality), and short maturities (one year or less). These features make them suitable for temporary cash management by institutions and wealthy individuals.
+
+What is core-satellite investing in portfolio management? : Core-satellite investing combines passive index investing (the "core" holding a significant portion of assets) with active management (the "satellite" holdings). This approach aims to achieve market returns through the core while seeking outperformance through targeted active management in the satellites.
+
+How do interest rate swaps help companies manage risk? : Interest rate swaps allow companies to convert between fixed and floating interest rate obligations without changing their underlying debt. This helps manage interest rate risk by adjusting exposure to rate fluctuations based on the company's outlook, preferences, or natural business exposures.
+
+What factor would cause a currency to depreciate? : Increased import demand would cause a currency to depreciate. When a country's residents want to buy more foreign goods, they need to sell their domestic currency to buy foreign currency, increasing the supply of domestic currency in the market and putting downward pressure on its value.
+
+Which money market instrument is considered to have the lowest default risk? : Treasury Bills have the lowest default risk among money market instruments because they are backed by the full faith and credit of the government, which can raise taxes or print money to meet obligations. This sovereign guarantee makes them the safest short-term investment.
+
+What distinguishes a UCITS fund in the investment world? : UCITS (Undertakings for Collective Investment in Transferable Securities) funds follow specific EU regulatory standards for investor protection, including diversification requirements, risk management, and transparency. This framework allows them to be marketed across EU countries with minimal additional regulation.
+
+What is the main difference between a currency swap and an interest rate swap? : Currency swaps exchange payments in different currencies (both principal and interest), while interest rate swaps exchange different types of interest payments (typically fixed for floating) in the same currency. Currency swaps manage both currency and interest rate risk simultaneously.
+
+How does a country's central bank intervene in a managed float exchange rate system? : Central banks intervene by buying or selling their own currency in foreign exchange markets to influence its value. Buying domestic currency reduces supply and supports its value; selling increases supply and weakens it, allowing some market determination with stabilizing intervention.
+
+What is the typical minimum denomination for Treasury Bills in the UK market? : £5,000 is typically the minimum denomination for Treasury Bills in the UK market. This relatively high minimum reflects that these instruments are primarily designed for institutional investors and wealthy individuals rather than retail investors.
+
+What is the difference between synthetic and physical ETF replication methods? : Synthetic ETF replication uses derivatives (typically swaps) to track the index without owning the underlying assets, while physical replication involves actually holding the securities comprising the index. Synthetic methods introduce counterparty risk but may offer more precise tracking or access to less liquid markets.
